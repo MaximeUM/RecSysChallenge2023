@@ -37,7 +37,11 @@ python train_model.py
 
 Seeds are used to get the same results at each launch of the notebook/script . However, when training with GPU, other sources of randomness seem to appear. Results may differ (not significantly) from one training to another one.
 
-## 5. Authors
+## 5. Experiments
+
+Experiments and metrics are available in the folder Experiments.
+
+## 6. Authors
 
 Maxime Manderlier, University of Mons (UMONS), Belgium (maxime.manderlier@umons.ac.be) <br/>
 Fabian Lecron, University of Mons (UMONS), Belgium (fabian.lecron@umons.ac.be)
